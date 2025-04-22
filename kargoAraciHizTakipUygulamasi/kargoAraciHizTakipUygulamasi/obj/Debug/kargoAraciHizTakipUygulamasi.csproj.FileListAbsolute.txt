@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\bin\Debug\kargoAraciHizTakipUygulamasi.exe.config
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\bin\Debug\kargoAraciHizTakipUygulamasi.exe
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\bin\Debug\kargoAraciHizTakipUygulamasi.pdb
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\obj\Debug\kargoAraciHizTakipUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\obj\Debug\kargoAraciHizTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\obj\Debug\kargoAraciHizTakipUygulamasi.exe
+C:\Users\Acer\source\repos\kargoAraciHizTakipUygulamasi\kargoAraciHizTakipUygulamasi\obj\Debug\kargoAraciHizTakipUygulamasi.pdb
